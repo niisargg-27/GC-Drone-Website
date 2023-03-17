@@ -13,7 +13,7 @@ export default function Order() {
                 alt="..."
               />
               <div class="card-body">
-                <h5 class="card-title">Drone Name</h5>
+                <h5 class="card-title">Archer</h5>
                 <h6 class="card-subtitle mb-2">Price : $99</h6>
                 <p class="card-text">
                   Fast and efficient deliveries.

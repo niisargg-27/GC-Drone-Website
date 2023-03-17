@@ -17,9 +17,9 @@ export default function Orderhistory() {
                       alt="Admin"
                     />
                     <div class="Admin-user-media-body">
-                      <h6 class="mb-2">Name</h6>
+                      <h6 class="mb-2">Nisarg</h6>
                       <p class="mb-1">+91 7538596034</p>
-                      <p>user@gmail.com</p>
+                      <p>Nisarg@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -69,13 +69,13 @@ export default function Orderhistory() {
                         <div class="media-body">
                           <a href="#">
                             <span class="float-right text-info">
-                              Delivered on Mon, Nov 12, 7:18 PM
+                              Delivered on Sun, Mar 19, 7:18 PM
                             </span>
                           </a>
                           <h6 class="mb-2">
                             <a href="#"></a>
                             <a href="#" class="text-black">
-                              Drone Name that is used for delivery
+                              Delivered using Archer Drone
                             </a>
                           </h6>
                           <p class="text-gray mb-1">

@@ -95,20 +95,19 @@ export default function Adminorder() {
                         <div class="media-body">
                           <a href="#">
                             <span class="float-right text-info">
-                              Delivered on Mon, Nov 12, 7:18 PM
+                            Delivered on Sun, Mar 19, 7:18 PM
                             </span>
                           </a>
                           <h6 class="mb-2">
                             <a href="#"></a>
                             <a href="#" class="text-black">
-                              The Drone Name
+                              Delivered using Hermes Drone
                             </a>
                           </h6>
                           <p class="text-gray mb-1">Pickup Location</p>
                           <p class="text-gray mb-3">Drop Location</p>
                           <p class="text-dark">
-                            Veg Masala Roll x 5, Veg Penne Pasta in Red Sauce x
-                            1
+                            Time Taken : 3.5 hours
                           </p>
                           <hr />
 

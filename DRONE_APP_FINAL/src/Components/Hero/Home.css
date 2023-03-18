@@ -1,0 +1,19 @@
+.space {
+    background-color: aliceblue ;
+    height: 10px;
+}
+.mask{
+    height: 100vh;
+}
+ .bg {
+    background-image: url("Drone1.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .carousel-inner .carousel-item {
+    height: 80vh;
+  }
+  
